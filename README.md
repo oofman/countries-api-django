@@ -74,3 +74,9 @@ Meta Info:
 
 - Test 1 - listing countries and filter by alpha's
 - Test 2 - soft deleting country and un-soft deleting
+
+
+## Thanks to
+
+- https://www.django-rest-framework.org/tutorial/quickstart/
+- https://www.moesif.com/blog/technical/api-development/Django-REST-API-Tutorial/
